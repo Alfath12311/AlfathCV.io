@@ -1,0 +1,28 @@
+
+.foto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    display: inline;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.under { 
+    text-decoration: underline; 
+}
+
+.fnt {
+    text-align: center;
+}
+
+.hover-underline-animation {
+    display: inline-block;
+    position: relative;
+}
